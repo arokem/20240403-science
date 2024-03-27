@@ -12,3 +12,4 @@ They have serious implications.
 
 We should always consider the implications. 
 
+In conclusion, we can store these files both places. 
